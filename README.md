@@ -54,7 +54,7 @@ In this page, all visuals can be filtered by using year slicer and customer stat
 
 <img width="861" alt="Reviews_Olist_PBI" src="https://user-images.githubusercontent.com/92820578/138098911-ecb9e822-991e-4b15-b129-b2f11461d639.png">
 
-Power BI file is attached.
+To see Power BI file, you can click https://we.tl/t-GwRiWs10Ev
 
 ## Creating Stored Procedure with MySQL
 
